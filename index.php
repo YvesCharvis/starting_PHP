@@ -5,6 +5,6 @@
 	<title>master</title>
 </head>
 <body>
-
+<a href="variable.php">EXERCICE 1</a>
 </body>
 </html>
