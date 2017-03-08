@@ -2,7 +2,7 @@
 <html>
 <link rel="stylesheet" type="text/css" href="style/css/style.css">
 <head>
-	<title>exo 2.4</title>
+	<title>exo 3.7</title>
 </head>
 <body>
 <a href="variable.php">EXERCICE 1</a>
